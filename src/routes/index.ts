@@ -25,3 +25,4 @@ export function setRoutes(app: Application): void {
         throw error;
     }
 }
+
